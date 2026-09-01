@@ -1,3 +1,16 @@
-# Odontologia
+# Landing de Consultorio de Odontología
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-qzenh4kx)
+Landing page demo para un consultorio de odontología.
+
+## Qué resuelve
+
+Presenta los servicios odontológicos del consultorio y facilita el agendamiento de citas desde el sitio.
+
+## Stack técnico
+
+- React + TypeScript + Vite
+- Tailwind CSS
+
+## Estado
+
+Demo de portafolio.
